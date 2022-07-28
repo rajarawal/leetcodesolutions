@@ -1,0 +1,5 @@
+Sorting of String in Java:
+char[] ch = str.toCharArray();
+Arrays.sort(ch);
+String sortedString = new String(ch);
+
